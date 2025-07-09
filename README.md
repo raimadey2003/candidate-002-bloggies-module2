@@ -138,30 +138,7 @@ Retrieves current credit balance for a user.
 | `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` | Stripe publishable key | Yes |
 | `NEXT_PUBLIC_BASE_URL` | Base URL for redirects | Yes |
 
-## 📁 Project Structure
 
-```
-├── app/
-│   ├── api/
-│   │   ├── generate-meme/
-│   │   ├── create-checkout/
-│   │   ├── webhook/
-│   │   └── credits/
-│   ├── success/
-│   └── page.tsx
-├── components/ui/
-│   ├── credit-counter.tsx
-│   ├── meme-generator.tsx
-│   ├── pro-checkout.tsx
-│   └── raffle-widget.tsx
-├── lib/
-│   ├── credits.ts
-│   └── meme-generator.ts
-├── samples/
-│   ├── meme-response.json
-│   └── checkout-response.json
-└── README.md
-```
 
 ## 🚀 Deployment
 
@@ -192,3 +169,5 @@ Sample responses are available in the `/samples` directory:
 ---
 
 Built by Raima Dey
+Linkedin : https://www.linkedin.com/in/raima-dey-13426a351/
+E-Mail : raimadey9836@gmail.com
