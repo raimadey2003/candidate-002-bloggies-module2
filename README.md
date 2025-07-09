@@ -51,11 +51,7 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 npm run dev
 ```
 
-### Production Build
-```bash
-npm run build
-npm start
-```
+
 
 ### Testing
 ```bash
