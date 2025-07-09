@@ -22,8 +22,8 @@ A beautiful, production-ready meme generator with Stripe integration, credit sys
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/candidate-001-bloggies-module2.git
-cd candidate-001-bloggies-module2
+git clone https://github.com/raimadey2003/candidate-002-bloggies-module2.git
+cd candidate-002-bloggies-module2
 ```
 
 2. Install dependencies:
@@ -123,7 +123,7 @@ Retrieves current credit balance for a user.
 ## 🎮 Demo Usage
 
 1. Visit the homepage
-2. Start with 5 demo credits
+2. Start with 10 demo credits
 3. Generate memes (2 credits each)
 4. Purchase more credits ($7 for 10 credits)
 5. Get automatically entered in weekly raffle
@@ -165,17 +165,8 @@ Retrieves current credit balance for a user.
 
 ## 🚀 Deployment
 
-The application is configured for easy deployment on Vercel, Netlify, or Render.
+https://candidate-002-bloggies-module2.vercel.app/
 
-### Vercel
-```bash
-vercel --prod
-```
-
-### Netlify
-```bash
-netlify deploy --prod
-```
 
 ## 🎨 Design Features
 
@@ -198,10 +189,6 @@ Sample responses are available in the `/samples` directory:
 - Rate limiting considerations
 - Secure credit deduction logic
 
-## 📝 License
-
-This project is for assessment purposes only.
-
 ---
 
-Built with ❤️ for the Bloggies Tech Assessment
+Built by Raima Dey
