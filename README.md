@@ -18,7 +18,7 @@ A beautiful, production-ready meme generator with Stripe integration, credit sys
 - **Storage**: In-memory store (JSON file compatible)
 - **Canvas**: HTML5 Canvas for meme generation
 
-## 📦 Installation
+## 📦 Set Up & Installation
 
 1. Clone the repository:
 ```bash
