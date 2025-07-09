@@ -51,6 +51,10 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 npm run dev
 ```
 
+## 🚀 Deployment
+
+https://candidate-002-bloggies-module2.vercel.app/
+
 
 
 ### Testing
@@ -135,10 +139,6 @@ Retrieves current credit balance for a user.
 | `NEXT_PUBLIC_BASE_URL` | Base URL for redirects | Yes |
 
 
-
-## 🚀 Deployment
-
-https://candidate-002-bloggies-module2.vercel.app/
 
 
 ## 🎨 Design Features
